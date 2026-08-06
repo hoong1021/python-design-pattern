@@ -1,4 +1,4 @@
-Key Technic Features:
+Key Technical Features:
 
  - **Decoupling Logic**: Each country's fee calculation is encapsulated in its own strategy class.
 
