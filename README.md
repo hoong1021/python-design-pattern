@@ -9,3 +9,5 @@ Key Technical Features:
 Structure:
 
 - `logistics.py`: Core logic
+
+Additional Git learning notes (Chinese) are available in the docs folder.
